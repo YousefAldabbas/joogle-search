@@ -1,6 +1,6 @@
 # Joogle - search engine
-![Design preview desktop](./design/b-result.png)
-![Design preview mobile](./design/l-result.png)
+![Design preview desktop](./designs/b-result.png)
+![Design preview mobile](./designs/l-result.png)
 
 ## Welcome! 👋
 
@@ -26,7 +26,7 @@ this project is using the Google Api from rapid API spicified search about jorda
 - Choc UI: [docs](https://choc-ui.com)
 ### Screenshot
 
-![Screenshot](./design/l-i.png)
+![Screenshot](./designs/l-i.png)
 
 ## My process
 
